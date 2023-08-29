@@ -1,0 +1,5 @@
+name: "Olympix AI Unit Test Generation"
+description: "Generates unit tests"
+runs: 
+  using: node12
+  main: "index.js"
